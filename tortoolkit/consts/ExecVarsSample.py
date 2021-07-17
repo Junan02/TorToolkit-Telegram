@@ -18,7 +18,7 @@ except:
         OWNER_ID = 1437312685
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = ttog.dpx.workers.dev
+        GD_INDEX_URL = False
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
